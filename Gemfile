@@ -58,3 +58,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Project Specific Gems
 gem "devise", "~> 4.8"
 gem "nested_scaffold", "~> 1.1"
+
+gem "pry", "~> 0.14.1"
